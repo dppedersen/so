@@ -1,0 +1,22 @@
+{
+  "name": "solidity",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dppedersen/solidity.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dppedersen/solidity/issues"
+  },
+  "homepage": "https://github.com/dppedersen/solidity#readme"
+}
