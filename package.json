@@ -18,5 +18,11 @@
   "bugs": {
     "url": "https://github.com/dppedersen/solidity/issues"
   },
-  "homepage": "https://github.com/dppedersen/solidity#readme"
+  "homepage": "https://github.com/dppedersen/solidity#readme",
+  "dependencies": {
+    "ganache-cli": "^6.1.6",
+    "mocha": "^5.2.0",
+    "solc": "^0.4.24",
+    "web3": "^1.0.0-beta.35"
+  }
 }
